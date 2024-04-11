@@ -2343,3 +2343,10 @@ iframe.bilibili-video {
 .girl-item .girl-from::after {
   content: '」';
 }
+.post-card {
+  border-radius: 8px;
+}
+.bodyImgBlur::before {
+  transition: filter 0.3s ease;
+  filter: blur(10px);
+}
