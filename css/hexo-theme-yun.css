@@ -295,7 +295,7 @@ body::before {
   animation-name: bgFadeIn;
   animation-duration: 2s;
   opacity: 0.8;
-  filter: blur(1px);
+  filter: blur(0px);
 }
 @-moz-keyframes bgFadeIn {
   from {
@@ -2344,7 +2344,7 @@ iframe.bilibili-video {
   content: '」';
 }
 .post-card {
-  border-radius: 8px;
+  border-radius: 30px;
 }
 .bodyImgBlur::before {
   transition: filter 0.3s ease;
