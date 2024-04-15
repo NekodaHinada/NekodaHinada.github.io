@@ -124,7 +124,7 @@ html.dark {
   --hty-secondary-text-color: #555;
   --post-block-bg-color: #fff;
   --smc-link-color: #0078e7;
-  --yun-bg-image: url("/img/bg_img.webp");
+  --yun-bg-image: url("https://api.aixiaowai.cn/api/api.php");
   --banner-line-color: #000;
   --banner-char-color: #000;
 }
