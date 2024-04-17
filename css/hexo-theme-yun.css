@@ -1818,7 +1818,7 @@ input {
   max-height: 10000px;
 }
 :root {
-  --sidebar-bg-image: url("");
+  --sidebar-bg-image: url("/img/e1c185460bcf0423ffc0c1315fe9355.webp");
 }
 #menu-btn {
   display: none;
@@ -1871,7 +1871,7 @@ input {
   background-color: var(--sidebar-bg-color, #fff);
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: bottom 1rem center;
+  background-position: bottom 1em center;
   text-align: center;
   z-index: 10;
   transition-property: all;
