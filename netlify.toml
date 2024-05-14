@@ -1,0 +1,5 @@
+# Redirect with a 301
+[[redirects]]
+from = "https://www.galmoe.top/"
+to = "https://galmoe.top/"
+status = 301
